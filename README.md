@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ukekarki" target="blank"><img src="https://img.shields.io/twitter/follow/ukekarki?logo=twitter&style=for-the-badge" alt="ukekarki" /></a> </p>
 
-- 🔭 I’m currently working on **kinematics of Milky Way**
+- 🔭 I’m currently working on **Kinematics of Milky Way**
 
 - 🌱 I’m currently learning **Bayesian Inference with Python**
 
