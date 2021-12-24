@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **karkiukesh1@gmail.com**
+- 📫 How to reach me **ukesh.735401@trc.tu.edu.np** or **karkiukesh1@gmail.com** 
 
 - 📄 Know about my experiences [https://ukesh-sys.github.io/ukesh/](https://ukesh-sys.github.io/ukesh/)
 
