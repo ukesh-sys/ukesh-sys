@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on **Kinematics of Milky Way**
 
-- 🌱 I’m currently learning **Bayesian Inference with Python**
-
 - 👯 I’m looking to collaborate on **Anything related to Physics**
-
-- 🤝 I’m looking for help with **Markov Chain Sampling**
 
 - 👨‍💻 All of my projects are available at [https://ukesh-sys.github.io/ukesh/](https://ukesh-sys.github.io/ukesh/)
 
