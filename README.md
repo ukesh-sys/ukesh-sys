@@ -7,17 +7,11 @@
 
 - 🔭 I’m currently Ph.D. Candidate at **Florida International University**
 
-- 👯 I’m looking to collaborate on **Anything related to Physics**
-
 - 👨‍💻 All of my projects are available at [https://ukesh-sys.github.io/ukesh/](https://ukesh-sys.github.io/ukesh/)
 
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **ukark001@fiu.edu** or **ukesh.735401@trc.tu.edu.np**
+- 📫 How to reach me **ukark001@fiu.edu** 
 
 - 📄 Know about my experiences [https://ukesh-sys.github.io/ukesh/](https://ukesh-sys.github.io/ukesh/)
-
-- ⚡ Fun fact **So many thing I can't summarize here**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
