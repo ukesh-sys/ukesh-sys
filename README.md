@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ukesh Karki</h1>
-<h3 align="center">I am aspiring physicist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukesh-sys&label=Profile%20views&color=0e75b6&style=flat" alt="ukesh-sys" /> </p>
 
