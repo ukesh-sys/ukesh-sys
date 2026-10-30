@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/ukekarki" target="blank"><img src="https://img.shields.io/twitter/follow/ukekarki?logo=twitter&style=for-the-badge" alt="ukekarki" /></a> </p>
 
-- 🔭 I’m currently Postdoctoral Researcher at **Johns Hopkin's All Children Hospital**
+- 🔭 I’m currently Postdoctoral Researcher at **Johns Hopkins All Children's Hospital**
 
 - 👨‍💻 All of my projects are available at [https://ukesh-sys.github.io/ukesh/](https://ukesh-sys.github.io/ukesh/)
 
-- 📫 How to reach me **ukark001@fiu.edu** 
+- 📫 How to reach me **ukarki1@jh.edu** 
 
 - 📄 Know about my experiences [https://ukesh-sys.github.io/ukesh/](https://ukesh-sys.github.io/ukesh/)
 
